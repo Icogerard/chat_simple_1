@@ -1,3 +1,5 @@
+# checked code | Yum
+
 print('Hola. Soy Yum')
 print('Fui creado en el año 2020.')
 print('Dime tu nombre.')
